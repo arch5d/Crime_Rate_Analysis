@@ -60,10 +60,24 @@ C:\Users\archi\OneDrive\Pictures\Screenshots\Screenshot 2025-04-04 192047.png
 
 ## 🧠 Libraries Used
 
-```python
+python
 pandas  
 numpy  
 matplotlib  
 seaborn  
 scikit-learn  
 
+---
+
+---
+
+## 📄 License  
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙋‍♀️ Author  
+
+Made with 💙 by Archita
+(https://github.com/arch5d)
