@@ -26,8 +26,8 @@ Key insights:
 - Heatmaps showing correlation between crime types
 - Distribution of crime categories
 
-Sample Correlation Heatmap:  
-C:\Users\archi\OneDrive\Pictures\Screenshots\Screenshot 2025-04-04 192047.png
+Correlation Heatmap:  
+![Screenshot 2025-04-04 192047](https://github.com/user-attachments/assets/819e436f-e25a-4897-9c0f-a8ab57f449f3)
 
 ---
 
