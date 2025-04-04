@@ -27,7 +27,7 @@ Key insights:
 - Distribution of crime categories
 
 Sample Correlation Heatmap:  
-![heatmap](https://github.com/your-username/Crime-Rate-Analysis/blob/main/assets/heatmap.png) <!-- Optional screenshot -->
+"C:\Users\archi\OneDrive\Pictures\Screenshots\Screenshot 2025-04-04 192047.png"
 
 ---
 
@@ -69,7 +69,7 @@ scikit-learn
 
 ---
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License.
 
 ---
