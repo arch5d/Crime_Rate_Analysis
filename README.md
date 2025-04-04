@@ -27,7 +27,7 @@ Key insights:
 - Distribution of crime categories
 
 Sample Correlation Heatmap:  
-"C:\Users\archi\OneDrive\Pictures\Screenshots\Screenshot 2025-04-04 192047.png"
+C:\Users\archi\OneDrive\Pictures\Screenshots\Screenshot 2025-04-04 192047.png
 
 ---
 
@@ -69,12 +69,12 @@ scikit-learn
 
 ---
 
-# 📄 License
+#📄 License 
 This project is licensed under the MIT License.
 
 ---
 
-Made with 💙 by Archita Dayal
+# Made with 💙 by Archita Dayal
 Follow for more ML + Data Science projects!
 
 ---
