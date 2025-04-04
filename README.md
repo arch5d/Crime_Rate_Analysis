@@ -61,20 +61,9 @@ C:\Users\archi\OneDrive\Pictures\Screenshots\Screenshot 2025-04-04 192047.png
 ## 🧠 Libraries Used
 
 ```python
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+pandas  
+numpy  
+matplotlib  
+seaborn  
+scikit-learn  
 
----
-
-#📄 License 
-This project is licensed under the MIT License.
-
----
-
-# Made with 💙 by Archita Dayal
-Follow for more ML + Data Science projects!
-
----
